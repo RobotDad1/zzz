@@ -16,11 +16,11 @@
 <!--- Connect with me --->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/actionkamen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="actionkamen" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/quantumn_robot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="quantumn_robot" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anshul-verma-6704a5396/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="actionkamen" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/crash_zen_44" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="quantumn_robot" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/quantumn_robot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="quantumn_robot" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/robotdad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="robotdad" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/renuvermaint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="renuvermaint" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/renuvermnt52?tab=activity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="renuvermaint" height="30" width="40" /></a>
 </p>
 <!--- Tools --->
 <h3 align="left">Languages and Tools</h3>
